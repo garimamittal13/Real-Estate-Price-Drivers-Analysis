@@ -1,0 +1,9 @@
+metric,value
+rows,287
+columns,19
+duplicate_url_rows,7
+non_positive_price_rows,6
+beds_equal_0,74
+baths_equal_0,128
+unparsed_size_rows,52
+unparsed_date_rows,0
