@@ -45,4 +45,6 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 ## How to Run
 ```bash
 pip install -r requirements.txt
-python src/run_analysis.py
+```
+
+This is a jupyter notebook so execute every cell in VSCode
